@@ -1,9 +1,5 @@
 # blueprint-template
 
-## vue3-project
+## vite-tailwind
 
-vue3專案使用
-
-## vue2-project
-
-vue2專案使用
+vue3 + vite + tailwind
